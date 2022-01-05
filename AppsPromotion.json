@@ -6,7 +6,13 @@
 		"appName": "Facebook",
 		"appDescription": "Keeping up with friends is faster and easier than ever",
 		"url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=bn&gl=US"
-	}
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/u8j6Y-EaDguplN6Qmmaa8xiOYFp9jWX-WF4lL7AbTNlLk8Zb2Ug1OcEXKuhI5hpvFJh3=s180-rw",
+		"appName": "Buddha Purnima Photo Frame",
+		"appDescription": "Vesak Day Photo Frame Android App",
+		"url": "https://play.google.com/store/apps/details?id=com.buddha.photo_frame"
+	},
 	
 	
 ]
